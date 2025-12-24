@@ -15,12 +15,9 @@ L'application est un prototype d'une application permettant d'accéder et de ré
 2. Assurez-vous d'avoir une connexion Internet active pour charger les dépendances externes.
 3. Ouvrez le fichier `index.html` dans votre navigateur web.
 
-## Personnalisation
+## Résultat
 
-Si vous souhaitez personnaliser l'application, vous pouvez effectuer les modifications suivantes :
-
-- Dans le fichier `index.html`, vous pouvez modifier la structure HTML du contenu de l'application en ajoutant, modifiant ou supprimant des éléments.
-- Dans le fichier `style.css`, vous pouvez personnaliser l'apparence de l'application en modifiant les styles CSS.
+<img width="1830" height="896" alt="interface" src="https://github.com/user-attachments/assets/fc7a3bb2-2afa-4264-a3b0-e173d04e676f" />
 
 ## Auteur
 
